@@ -1,5 +1,11 @@
 Practica de Git en equipo
 ------------------------------------------
 Practica Felipe
+<<<<<<< HEAD
 --------------------
 Practica Felipe 2
+=======
+
+------------------------------------------
+Practica Sapien
+>>>>>>> origin/master
