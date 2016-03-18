@@ -1,1 +1,3 @@
 Practica de Git en equipo
+------------------------------------------
+Practica Felipe
